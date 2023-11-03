@@ -1,0 +1,85 @@
+.fotoPerfil {
+    width: 220px; /* Largura desejada (3x4) */
+    height: 220px; /* Altura desejada (3x4) */
+    overflow: hidden;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  li div input {
+    margin-right: 10px;
+  }
+  
+  li div button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    margin-top: 5px;
+    cursor: pointer;
+  }
+  
+  li div span {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  h2 {
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  
+  div > input {
+    margin-right: 10px;
+    padding: 5px;
+  }
+  
+  div > button.promoFunc {
+    background-color: #3ba53b;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 6px;
+  }
+  
+  div > button.editarFunc {
+    background-color: #ebae5f;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 6px;
+  }
+  
+  div > button.demitirFunc {
+    background-color: #f33a2d;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+div > button.novoFunc {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 6px;
+}

@@ -1,0 +1,48 @@
+/* register.css */
+
+.Register {
+    text-align: center;
+    background: #f1f1f1;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 300px;
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  
+  .Register h1 {
+    margin: 0;
+    color: #333;
+  }
+  
+  .Register-form {
+    margin-top: 20px;
+  }
+  
+  .Register-form-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 16px;
+    margin: 5px 0;
+  }
+  
+  .Register-form-button {
+    width: 80%;
+    background: #007bff;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .Register span {
+    color: #007bff;
+    font-weight: bold;
+  }
+  
